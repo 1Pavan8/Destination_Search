@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.piccont {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.main {
+  padding: 60px;
+}
+
+.lpad {
+  padding-left: 90px;
+}
+
+.searchbg {
+  color: grey;
+}
+.searchimg {
+  background-color: grey;
+  height: 20px;
+  width: 20px;
+  margin-left: 5px;
+}
